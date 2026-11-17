@@ -28,8 +28,8 @@ Data packages only include results that have gone through our metadata QC protoc
 
 ## Method
 
-(https://github.com/HakaiInstitute/zooplankton-taxonomic-data/blob/main/docs/Zooplankton%20Sample%20Collection%20Protocol.docx.pdf)
-(https://github.com/HakaiInstitute/zooplankton-taxonomic-data/blob/main/docs/Zooplankton%20Taxonomy%20Protocol.docx.pdf)
+https://github.com/HakaiInstitute/zooplankton-taxonomic-data/blob/main/docs/Zooplankton%20Sample%20Collection%20Protocol.docx.pdf
+https://github.com/HakaiInstitute/zooplankton-taxonomic-data/blob/main/docs/Zooplankton%20Taxonomy%20Protocol.docx.pdf
 
 ## Reports
 
