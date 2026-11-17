@@ -8,28 +8,27 @@
 
 <div align='center'>
 
-[![DOI](https://img.shields.io/badge/DOI-10.21966%2Ftcp2--mm86-blue)](https://doi.org/10.21966-mm86)
+[![DOI](https://img.shields.io/badge/DOI-10.21966%2Ftcp2--g7zf-1v08-blue)](https://doi.org/10.21966/g7zf-1v08)
 
 </div>
 
 
-# Zooplankton Isotope Data Repository
+# Zooplankton Taxonomic & Biomass Data Repository
 
-Jordison, D., Bergshoeff, J., Bedard, K., & Kellogg, C. (2026). Size-fractionated zooplankton biomass and isotopes along the BC coast (v1.1). Hakai Institute. https://doi.org/10.21966/tcp2-mm86
+Currie-Olsen, D., Bedard, K., Kellogg, C., & Galbraith, M. (2025). Zooplankton taxonomic abundance and biomass along the BC Coast (v1.0). Hakai Institute. https://doi.org/10.21966/g7zf-1v08
 
 ## Abstract
 
-This dataset contains size-fractionated zooplankton isotope data obtained from collecting samples with vertical net hauls by the Hakai Ocean Observing Program. The sample is poured through a series of sieves and filtered onto GF/F filters prior to being sent for isotope analysis at the University of California Davis Stable Isotope Facility. These samples have been collected biweekly to monthly from 2015-2025 in the northern Strait of Georgia, British Columbia, approximately every 4-6 weeks 2012-2021 between Kwakshua Channel and Rivers Inlet, and the summers of 2015 and 2016 in Johnstone Strait on British Columbia's Central Coast.
+This dataset contains zooplankton abundance and biomass data obtained from analyzing microscopy samples collected with vertical net hauls by the Hakai Ocean Observing Program. Each sample is preserved in 10% formalin and later counted under a microscope for taxonomic identification. These samples have been collected biweekly to monthly 2015-2026 in the northern Strait of Georgia, British Columbia, and approximately every 4-6 weeks 2012-2021 between Kwakshua Channel and Rivers Inlet on British Columbia's Central Coast. This record includes results from March 2016-October 2017 on the Central Coast, and January 2023-January 2026 near Quadra Island.
 
 This data package includes:
-- Size-fractionated stable isotope results and metadata
-- Tow Metadata corresponding to samples collected
+- Zooplankton biomass and abundance determined via taxonomic identification
 
 Data packages only include results that have gone through our metadata QC protocol. Users can reach out to request data not included and for collaborative opportunities.
 
 ## Method
 
-https://github.com/HakaiInstitute/zooplankton-isotope-data-repository/blob/main/docs/Zooplankton%20Isotopes%20Protocol.docx
+Fill this in
 
 ## Reports
 
